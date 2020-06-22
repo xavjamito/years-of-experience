@@ -66,10 +66,6 @@ Check in browser on [http://localhost:5000/](http://localhost:5000/)
 Xavier Paolo Jamito
 (https://github.com/xavjamito)
 
-### Version
-
-2.0.0
-
 ### License
 
 This project is licensed under the MIT License
