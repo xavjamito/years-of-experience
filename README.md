@@ -1,5 +1,5 @@
 # Years of Experience
-> Part 2 of the Glint Technical Assessment
+> Part 2 of the Glints Technical Assessment
 
 This is a MERN stack application that shows a simple editable profile page that represents a candidate's basic information and work experience.
 
