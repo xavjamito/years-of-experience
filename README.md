@@ -7,6 +7,8 @@ https://secret-thicket-91907.herokuapp.com/
 This is a MERN stack application that shows a simple editable profile page that represents a candidate's basic information and work experience.
 
 # Technologies Used
+* React
+* Redux
 * JWT
 * MongoDB
 * Mongoose
